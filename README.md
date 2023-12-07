@@ -4,4 +4,4 @@ This repository contains the assignments solutions solved of Data Science Master
 
 Introduction
 
-This DataScience course is an advanced course starting covering all the fundamental topics of python programming language and datascience like Web Scrapping, Statistics, Visualizations, EDA, Machine Learning Algorithmns, Implementation of ML algorithmns in end to end Projects using pipelines, Deep Learning, Computer Vision and NLP.
+This DataScience course is an advanced course covering all the fundamental topics of python programming language and data science tools  like Web Scrapping, Statistics, Visualizations, EDA, Machine Learning Algorithmns, Implementation of ML algorithmns in end to end Projects using pipelines, Deep Learning, Computer Vision and NLP.
